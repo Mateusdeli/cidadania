@@ -13,9 +13,9 @@
     "next": "10.0.6",
     "nextjs": "0.0.3",
     "nodemailer": "^6.5.0",
-    "react": "16.8.0",
+    "react": "17.0.1",
     "react-bootstrap": "^1.4.3",
-    "react-dom": "16.8.0",
+    "react-dom": "17.0.1",
     "react-icons": "^4.2.0",
     "styled-components": "^5.2.1",
     "yup": "^0.32.9"
